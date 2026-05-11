@@ -142,4 +142,5 @@ In a separate terminal, run the A2A Client to run some queries against our A2A s
 uv run currency_agent/test_client.py
 ```
 
+# Note:
 This is repo has fixed few changes from the original repository: https://github.com/jackwotherspoon/currency-agent. The URL used in the repo "returns a 301 Moved Permanently status". 
