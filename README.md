@@ -10,8 +10,6 @@
 
 A sample agent demonstrating A2A + ADK + MCP working together. It leverages the new **Agent2Agent (A2A) Python SDK** ([`a2a-sdk`](https://github.com/google-a2a/a2a-python)) and **v1.0.0+** of Google's **Agent Development Kit (ADK)**, [`google-adk`](https://github.com/google/adk-python).
 
-Both were [announced at Google I/O 2025](https://developers.googleblog.com/en/agents-adk-agent-engine-a2a-enhancements-google-io/).
-
 ![Architecture Overview](images/architecture.png)
 
 ## Overview
