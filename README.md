@@ -18,6 +18,8 @@ The sample aims at laying out a foundation and showcasing the capabilities
 of A2A + ADK + MCP. It is a currency converter agent that can convert between different
 countries' currencies.
 
+Codelab: https://codelabs.developers.google.com/codelabs/currency-agent#0
+
 ### <img height="20" width="20" src="images/mcp-favicon.ico" alt="MCP Logo" /> Model Context Protocol (MCP)
 
 > MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools. - [Anthropic](https://modelcontextprotocol.io/introduction)
